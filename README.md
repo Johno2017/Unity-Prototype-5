@@ -1,0 +1,2 @@
+This project is a prototype of a fruit ninja style mini game. The game will add score based on the different items and reduce score based on bad items. There is a main menu and restart functionality included after a game over. ![image](https://github.com/user-attachments/assets/a2584dd3-2949-4304-9101-fd79777e0074)
+![image](https://github.com/user-attachments/assets/67ddbc22-15e7-412e-9e94-9cfa54806e6f)
